@@ -1,0 +1,11 @@
+{
+  "tabId": "menu.untitled.list",
+  "rsId": "untitled",
+  "gid": "untitled-grid",
+  "url": "yoyo.json",
+  "colNames": {
+    "id": "ID",
+    "username": "名称"
+  },
+  "colModel": ["id", "username", "age"]
+}

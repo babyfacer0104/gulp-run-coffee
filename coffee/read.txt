@@ -1,0 +1,11 @@
+{
+  "tabId": "menu.untitled.list",  //模块ID （ItemView ID）
+  "rsId": "untitled",			  //表ID （createJqGrid ID）
+  "gid": "untitled-grid",		  //表HTML ID （createJqGrid HTML ID）
+  "url": "yoyo.json",  			  //表URL （访问接口路径）
+  "colNames": {					  //表字段定义，带中文名称
+    "id": "ID",
+    "username": "名称"
+  },
+  "colModel": ["id", "username", "age"]//表字段
+}
